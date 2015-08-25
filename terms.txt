@@ -1,0 +1,50 @@
+Grok
+Ship It
+"automagic"
+Talk to the Duck
+Peel the Onion
+Cargo Cult
+Copy-pasta
+Monkey Patch
+Easter Egg
+Duck Typing
+Heisenbug
+Ballmer Peak
+Yoda Conditions
+Dogfooding
+Shaving the Yak
+Hand-wavey
+Code Smell
+Refuctoring
+Bikeshedding
+Gold plating
+Spaghetti Code
+Garbage in, garbage out
+"boom"
+Kludge
+Boss key
+WAT?!
+Here be Dragons
+ping
+TLA
+DHH
+TL;DR
+RTFM
+NOOP/NOP
+TMTOWTDI
+MINASWAN
+YAGNI
+DRY
+PEBKAC
+(FU|FOO)BAR
+KISS
+shebang
+threequals
+splat
+all your {base} are belong to us
+fat finger
+Law of Demeter
+"Internet of Things"
+scope creep
+"plug and pray"
+"bounce the server"
